@@ -1,1 +1,1 @@
-# This is going to be conflicted!
+# This is going to be conflicted
